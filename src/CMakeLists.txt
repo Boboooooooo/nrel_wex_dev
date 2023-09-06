@@ -39,6 +39,7 @@ set(WEX_SRC
         label.cpp
         lkscript.cpp
         metro.cpp
+        mswfatal.cpp
         pagelayout.cpp
         pageobjects.cpp
         plot/mplcontour.cpp
